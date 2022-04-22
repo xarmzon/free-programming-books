@@ -127,11 +127,6 @@ $RECYCLE.BIN/
 # Global/VisualStudioCode.gitignore
 # #####################################
 
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 *.code-workspace
 
 # Local History for Visual Studio Code
@@ -277,7 +272,6 @@ dist
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
-.vscode-test
 
 # yarn v2
 .yarn/cache
@@ -290,3 +284,6 @@ dist
 # #########################################################
 # User Custom
 # ########
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
